@@ -43,8 +43,6 @@
 
 ## 📊 **GitHub Activity**
 
-> You can generate dynamic GitHub stats using a service like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) by adding the following code to your README file:
-
 ```md
 ![Jyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JyotiBhardwaj&show_icons=true&theme=radical)
 
