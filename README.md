@@ -43,11 +43,9 @@
 
 ## 📊 **GitHub Activity**
 
-```md
-![Jyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JyotiBhardwaj&show_icons=true&theme=radical)
+![Jyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JyotiBhardwaj27&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotiBhardwaj&layout=compact&theme=radical)
-```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotiBhardwaj27&layout=compact&theme=radical)
 
 ---
 
