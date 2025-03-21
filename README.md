@@ -42,7 +42,6 @@
 ## 🏆 **Projects & Work**
 - **Online Retail Price Analysis** – Built a Power BI dashboard to track price trends and analyze competitor strategies.
 - **Aviation Profit Prediction** – Developed a Streamlit app using Random Forest to predict airline profitability.
-- **Customer Churn Analysis** – Applied Random Forest model to predict customer churn in the telecom industry.
 - **HR Analytics Dashboard** – Visualized employee satisfaction, salary trends, and performance metrics using Power BI.
 
 ---
