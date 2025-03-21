@@ -48,20 +48,8 @@
 ---
 
 ## 💌 **Let's Connect!**
-- **Email**: jyotibhardwaj@example.com
+- **Email**: jyotibhardwaj@gmail.com
 - **LinkedIn**: [www.linkedin.com/in/jyotibhardwaj2798](https://www.linkedin.com/in/jyotibhardwaj2798)
-
----
-
-## 📊 **GitHub Activity**
-
-To display your actual GitHub stats, you can use the following URL:
-
-```
-![Jyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JyotiBhardwaj2798&show_icons=true&theme=radical)
-```
-
-Make sure the username `JyotiBhardwaj2798` is accurate for your GitHub profile.
 
 ---
 
