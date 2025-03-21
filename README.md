@@ -31,40 +31,30 @@
 ## 🏆 **Projects & Work**
 - **Online Retail Price Analysis** – Built a Power BI dashboard to track price trends and analyze competitor strategies.
 - **Aviation Profit Prediction** – Developed a Streamlit app using Random Forest to predict airline profitability.
-- **Customer Churn Analysis** – Applied Random Forest model to predict customer churn in the telecom industry.
 - **HR Analytics Dashboard** – Visualized employee satisfaction, salary trends, and performance metrics using Power BI.
 
 ---
 
 ## 💌 **Let's Connect!**
-- **Email**: jyotibhardwaj@example.com
+- **Email**: jyotibhardwaj@gmail.com
 - **LinkedIn**: [Jyoti Bhardwaj](https://www.linkedin.com/in/jyotibhardwaj2798)
 
 ---
 
 ## 📊 **GitHub Activity**
 
-> **GitHub Stats**
+> You can generate dynamic GitHub stats using a service like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) by adding the following code to your README file:
 
-- **Total Stars Earned**: 0
-- **Total Commits (2025)**: 0
-- **Total PRs**: 0
-- **Total Issues**: 0
-- **Contributed to (Last Year)**: 0
+```md
+![Jyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JyotiBhardwaj&show_icons=true&theme=radical)
 
-> **Most Used Languages**
-
-- **Python**: 0%
-- **Jupyter Notebook**: 0%
-
-> **Contributions**
-
-- **Total Contributions**: 0 (From Nov 29, 2024 - Present)
-- **Current Streak**: 0 Days
-- **Longest Streak**: 0 Days
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotiBhardwaj&layout=compact&theme=radical)
+```
 
 ---
 
 ## ⚡ **Fun Fact**
 > "Without data, you're just another person with an opinion." – *W. Edwards Deming*
+
+
 
