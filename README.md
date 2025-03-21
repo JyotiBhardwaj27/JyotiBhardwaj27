@@ -49,17 +49,22 @@
 
 ## 💌 **Let's Connect!**
 - **Email**: jyotibhardwaj@example.com
-- **LinkedIn**: [www.linkedin.com/in/jyoti-bhardwaj](https://www.linkedin.com/in/jyoti-bhardwaj)
+- **LinkedIn**: [www.linkedin.com/in/jyotibhardwaj2798](https://www.linkedin.com/in/jyotibhardwaj2798)
 
 ---
 
 ## 📊 **GitHub Activity**
 
-![Jyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jyoti-Bhardwaj&show_icons=true&theme=radical)
+To display your actual GitHub stats, you can use the following URL:
+
+```
+![Jyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JyotiBhardwaj2798&show_icons=true&theme=radical)
+```
+
+Make sure the username `JyotiBhardwaj2798` is accurate for your GitHub profile.
 
 ---
 
 ## ⚡ **Fun Fact**
 > "Without data, you're just another person with an opinion." – *W. Edwards Deming*
-
 
